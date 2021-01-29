@@ -1,0 +1,5 @@
+.school_menu_bar {
+	z-index: 99999;
+	position: sticky;
+	top: 0;
+}
